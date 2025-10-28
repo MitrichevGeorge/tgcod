@@ -3,7 +3,7 @@
 
 ## Установка и запуск
 ```bash
-git clone --depth=1 github.com/MitrichevGeorge/tgcod
+git clone --depth=1 https://github.com/MitrichevGeorge/tgcod.git
 cd tgcod
 python -m venv env
 source env/bin/activate
