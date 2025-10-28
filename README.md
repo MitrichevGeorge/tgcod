@@ -8,6 +8,7 @@ cd tgcod
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+nano main.py #введите свои api_id и api_hash
 python main.py
 ```
 
